@@ -3,3 +3,5 @@ target
 snfoundry_trace/
 coverage/
 profile/
+calldata_starknetjs.txt
+serialize_with_starknetjs.js
